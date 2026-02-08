@@ -1,6 +1,7 @@
 
 # Long Short-Term Memory Models with PyTorch
 
+[Veiw Project PDF](https://deep-model.github.io/Long-Short_Term_Memory_Models_with_PyTorch/LSTM_white_paper.pdf)
 ##  Matthew Harper 
     
 ## Deep Learning Topic Areas:      
