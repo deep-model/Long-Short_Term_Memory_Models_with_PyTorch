@@ -1,4 +1,4 @@
-Abstract: Linear factor models arguably present some of the more simplistic methods for developing generative models with latent variables [2]. 
+**Abstract**: Linear factor models arguably present some of the more simplistic methods for developing generative models with latent variables [2]. 
 Linear factor models utilize probabilistic inference to predict a variable value given other independent variables and are often used to build 
 larger deep probabilistic models [1, 2]. Moreover, a linear factor model can be further defined as a stochastic model or a model well described 
 by a random probability distribution which uses a linear decoder function to generate value x by adding noise to a linear transformation. As a 
