@@ -1,10 +1,9 @@
 
 # Long Short-Term Memory Models with PyTorch
 
-## University of Houston Victoria 
-### Matthew Harper 
+## University of Houston Victoria - Matthew Harper 
     
-## **Deep Learning Topic Areas:      
+## Deep Learning Topic Areas:      
 Recurrent Networks   Feedforward MLPs    Principal Component Analysis       
 Linear Factor Models   Non-linear Activation      Long Short-Term Memory 
 Deep Networks    Sparse Coding  
