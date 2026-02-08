@@ -1,3 +1,14 @@
+
+# Long Short-Term Memory Models with PyTorch
+
+## University of Houston Victoria 
+### Matthew Harper 
+    
+## **Deep Learning Topic Areas:      
+Recurrent Networks   Feedforward MLPs    Principal Component Analysis       
+Linear Factor Models   Non-linear Activation      Long Short-Term Memory 
+Deep Networks    Sparse Coding  
+
 **Abstract**: Linear factor models arguably present some of the more simplistic methods for developing generative models with latent variables [2]. 
 Linear factor models utilize probabilistic inference to predict a variable value given other independent variables and are often used to build 
 larger deep probabilistic models [1, 2]. Moreover, a linear factor model can be further defined as a stochastic model or a model well described 
