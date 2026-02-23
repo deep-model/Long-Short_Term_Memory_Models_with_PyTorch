@@ -1,9 +1,8 @@
-
-# Long Short-Term Memory Models with PyTorch
-
 [Veiw Project White Paper PDF](https://deep-model.github.io/Long-Short_Term_Memory_Models_with_PyTorch/LSTM_white_paper.pdf)
+# Long Short-Term Memory Models with PyTorch
 ##  Matthew Harper 
-    
+  <img width="889" height="590" alt="image" src="https://github.com/user-attachments/assets/97fa3eb5-7168-4d20-8d9a-9e2850f53612" />
+  
 ## Deep Learning Topic Areas:      
 Recurrent Networks   Feedforward MLPs    Principal Component Analysis       
 Linear Factor Models   Non-linear Activation      Long Short-Term Memory 
