@@ -1,7 +1,7 @@
 [Veiw Project White Paper PDF](https://deep-model.github.io/Long-Short_Term_Memory_Models_with_PyTorch/LSTM_white_paper.pdf)
 # Long Short-Term Memory Models with PyTorch
 ##  Matthew Harper 
-## [Veiw Entire Project List](https://github.com/deep-model?tab=repositories)
+## [Veiw Project List](https://github.com/deep-model?tab=repositories)
   <img width="600" height="400" alt="image" src="https://github.com/deep-model/Long-Short_Term_Memory_Models_with_PyTorch/blob/main/LSTM%20Model.jpg" />
   
 ## Deep Learning Topic Areas:      
